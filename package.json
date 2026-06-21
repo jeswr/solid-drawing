@@ -78,7 +78,7 @@
     "@zazuko/env-node": "^3.0.0",
     "rdf-validate-shacl": "^0.6.5",
     "typescript": "^5",
-    "vitest": "^3.2.6"
+    "vitest": "^4.1.9"
   },
   "engines": {
     "node": ">=20"
